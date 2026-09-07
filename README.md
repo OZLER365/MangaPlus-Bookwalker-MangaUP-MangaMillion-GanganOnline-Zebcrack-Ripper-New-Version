@@ -1,9 +1,14 @@
 # Manga-Plus-Bookwalker-Manga-UP-Manga-Million-Gangan-Online-Zebcrack-Ripper
 Download Chapters From Manga Plus,Bookwalker,Manga-UP,Manga Million,Gangan Online &amp; Zebcrack
+
 *set the reading direction right to left (horizontal scroll)
+
 *Auto scroll doesn't work on MANGAPLUS SCROLL MANUALLY & WILL CAPTURE 2-3 LESS IMAGES THAN THE TOTAL COUNT BUT THOSE ARE UNNECESSARY IMAGES
+
 *if you've enabled right click enabled extension or script please turn it off otherwise auto scroll won't work
+
 *auto scroll doesn't work in Bookwalker
+
 *this is both MANGA MILLION and MANGA UP and can be made for more sites that uses blob urls with a little bit of change, for now i only needed this for manga million and mangaup so i only made for them for other site support contact me
 
 Help Keep This Userscript
