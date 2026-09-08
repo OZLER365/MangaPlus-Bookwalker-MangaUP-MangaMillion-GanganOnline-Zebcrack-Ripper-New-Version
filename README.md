@@ -1,6 +1,5 @@
 # Manga-Plus-Bookwalker-Manga-UP-Manga-Million-Gangan-Online-Zebcrack-Ripper
-Download Chapters From Manga Plus,Bookwalker,Manga-UP,Manga Million,Gangan Online &amp; Zebcrack
-
+Auto Scroll Not Recommended
 *set the reading direction right to left (horizontal scroll)
 
 *Auto scroll doesn't work on MANGAPLUS SCROLL MANUALLY & WILL CAPTURE 2-3 LESS IMAGES THAN THE TOTAL COUNT BUT THOSE ARE UNNECESSARY IMAGES
