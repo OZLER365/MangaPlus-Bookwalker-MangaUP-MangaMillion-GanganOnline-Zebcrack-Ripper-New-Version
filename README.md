@@ -1,5 +1,5 @@
 # Manga-Plus-Bookwalker-Manga-UP-Manga-Million-Gangan-Online-Zebcrack-Ripper
-*Supported Languages - English, Español, ภาษาไทยPortuguês(BR), Bahasa(IND), Русский, Français, Deutsch, Tiếng Việt, Japanese 
+*Supported Languages - English, Español, ภาษาไทย, Português(BR), Bahasa(IND), Русский, Français, Deutsch, Tiếng Việt, Japanese 
 
 *Auto Scroll Not Recommended
 
