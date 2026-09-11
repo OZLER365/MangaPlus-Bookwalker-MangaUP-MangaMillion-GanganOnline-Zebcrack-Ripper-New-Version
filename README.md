@@ -1,32 +1,38 @@
-# Manga-Plus-Bookwalker-Manga-UP-Manga-Million-Gangan-Online-Zebcrack-Ripper
-*Supported Languages - English, Español, ภาษาไทย, Português(BR), Bahasa(IND), Русский, Français, Deutsch, Tiếng Việt, Japanese 
+# Multi-Site Manga Ripper (v8.6)
 
-*Auto Scroll Not Recommended
+A powerful userscript designed to extract and download manga chapters directly from supported platforms
+It captures the highest quality image blobs from the network and saves them directly into an organized local folder
 
-*set the reading direction right to left (horizontal scroll)
+## ✨ Core Features
 
-*Auto scroll doesn't work on MANGAPLUS SCROLL MANUALLY & WILL CAPTURE 2-3 LESS IMAGES THAN THE TOTAL COUNT BUT THOSE ARE UNNECESSARY IMAGES
+* **Platform Support:** Works seamlessly with Manga UP, Manga Million, Gangan Online, Zebrack, Manga Plus, and Bookwalker
+* **Lossless Conversion:** Automatically detects AVIF/WEBP image formats and converts them to standard PNGs during the download process
+* **Smart Folder Naming:** Extracts the chapter title from the page metadata to automatically name your download folder
+* **Professional UI:** Features a dark-themed, draggable control panel with an adjustable scroll-delay slider
+* **Direct Downloads:** Uses Tampermonkey's native download API to save files sequentially without needing a ZIP archive
 
-*if you've enabled right click enabled extension or script please turn it off otherwise auto scroll won't work
+## ⚠️ Critical Usage Instructions
 
-*Auto scroll doesn't work in Bookwalker
+* **Reading Direction:** You MUST set the reader to **Right-to-Left (Horizontal)** for the script to sequence pages correctly
+* **Auto-Scroll Warnings:** Using the auto-scroll feature is generally **not recommended** for these specific sites
+* **Manga Plus Rules:** Auto-scroll does not work here. Please scroll manually. (Note: The script will intentionally skip 2-3 unnecessary UI images compared to the total count)
+* **Bookwalker Rules:** Auto-scroll does not work here. Please scroll manually
+* **Extension Conflicts:** Disable any "Enable Right Click" scripts or browser extensions, as they will completely break the auto-scroll logic
 
-*This is both MANGA MILLION and MANGA UP and can be made for more sites that uses blob urls with a little bit of change, for now i only needed this for manga million and mangaup so i only made for them for other site support contact me
+## 🌐 Supported Languages
 
-Help Keep This Userscript
-Updated and Running Smoothly
-With a Small Donation - https://buymeacoffee.com/ozler
+English, Español, ภาษาไทย, Português (BR), Bahasa Indonesia, Русский, Français, Deutsch, Tiếng Việt, and Japanese
 
-Greasyfork Userscript - https://greasyfork.org/en/users/1553223-ozler365
+## 🚀 Installation & Setup
 
-Visit My Website - https://ozler365.github.io/ozler-s-works-info/#/repositories
+1. Install the **Tampermonkey** browser extension
+2. Download the script from my [Greasyfork Profile](https://greasyfork.org/en/users/1553223-ozler365)
+3. Open a supported chapter, scroll through the pages to load them into the capture queue, and click **Download Captured**
 
-For Queries or Feature Requests
-Review on Greasyfork or Email:
-devjk6918@gmail.com
+## 🔗 Support & Contact
 
-*This is for educational purpose, don't repost the downloaded images
+*This tool is strictly for educational purposes — do not repost or distribute the downloaded images*
 
-zip is not supported but individual images will be downloading them in a separate folder
-
-Tamper Monkey recommended
+* **My GitHub Portfolio:** [ozler-s-works-info](https://ozler365.github.io/ozler-s-works-info/#/repositories)
+* **Support the Project:** Help keep this script updated with a small donation at [Buy Me a Coffee (ozler)](https://buymeacoffee.com/ozler)
+* **Contact:** Leave a review on Greasyfork or email **devjk6918@gmail.com**
