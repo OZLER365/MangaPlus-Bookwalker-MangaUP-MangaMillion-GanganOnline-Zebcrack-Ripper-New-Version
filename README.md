@@ -14,7 +14,6 @@ It captures the highest quality image blobs from the network and saves them dire
 ## ⚠️ Critical Usage Instructions
 
 * **Reading Direction:** You MUST set the reader to **Right-to-Left (Horizontal)** for the script to sequence pages correctly
-* **Auto-Scroll Warnings:** Using the auto-scroll feature is generally **not recommended** for these specific sites
 * **Manga Plus Rules:** Auto-scroll does not work here. Please scroll manually. (Note: The script will intentionally skip 2-3 unnecessary UI images compared to the total count)
 * **Bookwalker Rules:** Auto-scroll does not work here. Please scroll manually
 * **Extension Conflicts:** Disable any "Enable Right Click" scripts or browser extensions, as they will completely break the auto-scroll logic
