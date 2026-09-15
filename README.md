@@ -1,4 +1,4 @@
-# Multi-Site Manga Ripper (v8.6)
+# Multi-Site Manga Ripper (v8.9)
 
 A powerful userscript designed to extract and download manga chapters directly from supported platforms
 It captures the highest quality image blobs from the network and saves them directly into an organized local folder
@@ -14,8 +14,7 @@ It captures the highest quality image blobs from the network and saves them dire
 ## ⚠️ Critical Usage Instructions
 
 * **Reading Direction:** You MUST set the reader to **Right-to-Left (Horizontal)** for the script to sequence pages correctly
-* **Manga Plus Rules:** Auto-scroll does not work here. Please scroll manually. (Note: The script will intentionally skip 2-3 unnecessary UI images compared to the total count)
-* **Bookwalker Rules:** Auto-scroll does not work here. Please scroll manually
+* **Manga Plus Rules:** The script will intentionally skip 2-3 unnecessary UI images compared to the total count
 * **Extension Conflicts:** Disable any "Enable Right Click" scripts or browser extensions, as they will completely break the auto-scroll logic
 
 ## 🌐 Supported Languages
